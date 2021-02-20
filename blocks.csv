@@ -1,3 +1,4 @@
+Acacia Button
 Acacia Door
 Acacia Fence
 Acacia Fence Gate
@@ -12,19 +13,27 @@ Acacia Stairs
 Acacia Trapdoor
 Acacia Wood
 Activator Rail
+Allium
 Ancient Debris
 Andesite
 Andesite Slab
 Andesite Stairs
 Andesite Wall
 Anvil
+Apple
+Armor Stand
+Arrow
 Azure Bluet
+Baked Potato
 Bamboo
 Barrel
 Basalt
 Beacon
 Bee Nest
 Beehive
+Beetroot
+Beetroot Seeds
+Beetroot Soup
 Beetroots
 Bell
 Birch Button
@@ -44,6 +53,7 @@ Birch Wood
 Black Carpet
 Black Concrete
 Black Concrete Powder
+Black Dye
 Black Glazed Terracotta
 Black Stained Glass
 Black Stained Glass Pane
@@ -54,6 +64,8 @@ Blackstone Slab
 Blackstone Stairs
 Blackstone Wall
 Blast Furnace
+Blaze Powder
+Blaze Rod
 Block of Coal
 Block of Diamond
 Block of Emerald
@@ -65,6 +77,7 @@ Block of Redstone
 Blue Carpet
 Blue Concrete
 Blue Concrete Powder
+Blue Dye
 Blue Glazed Terracotta
 Blue Ice
 Blue Orchid
@@ -72,13 +85,20 @@ Blue Stained Glass
 Blue Stained Glass Pane
 Blue Terracotta
 Blue Wool
+Bone
 Bone Block
+Bone Meal
+Book
 Bookshelf
+Bottle o' Enchanting
+Bowl
 Brain Coral
 Brain Coral Block
 Brain Coral Fan
 Brain Coral Wall Fan
+Bread
 Brewing Stand
+Brick
 Brick Slab
 Brick Stairs
 Brick Wall
@@ -86,6 +106,7 @@ Bricks
 Brown Carpet
 Brown Concrete
 Brown Concrete Powder
+Brown Dye
 Brown Glazed Terracotta
 Brown Mushroom
 Brown Mushroom Block
@@ -97,13 +118,16 @@ Bubble Coral
 Bubble Coral Block
 Bubble Coral Fan
 Bubble Coral Wall Fan
+Bucket
 Cactus
 Cake
 Campfire
+Carrot
 Carrots
 Cartography Table
 Carved Pumpkin
 Cauldron
+Charcoal
 Chest
 Chiseled Nether Bricks
 Chiseled Polished Blackstone
@@ -112,8 +136,12 @@ Chiseled Red Sandstone
 Chiseled Sandstone
 Chiseled Stone Bricks
 Chorus Flower
+Chorus Fruit
 Chorus Plant
 Clay
+Clay Ball
+Clock
+Coal
 Coal Ore
 Coarse Dirt
 Cobblestone
@@ -122,7 +150,16 @@ Cobblestone Stairs
 Cobblestone Wall
 Cobweb
 Cocoa
+Cocoa Beans
+Compass
 Composter
+Cooked Chicken
+Cooked Cod
+Cooked Mutton
+Cooked Porkchop
+Cooked Rabbit
+Cooked Salmon
+Cookie
 Cornflower
 Cracked Nether Bricks
 Cracked Polished Blackstone Bricks
@@ -151,6 +188,7 @@ Cut Sandstone Slab
 Cyan Carpet
 Cyan Concrete
 Cyan Concrete Powder
+Cyan Dye
 Cyan Glazed Terracotta
 Cyan Stained Glass
 Cyan Stained Glass Pane
@@ -177,6 +215,7 @@ Dark Prismarine Stairs
 Daylight Detector
 Dead Bush
 Detector Rail
+Diamond
 Diamond Ore
 Diorite
 Diorite Slab
@@ -184,10 +223,17 @@ Diorite Stairs
 Diorite Wall
 Dirt
 Dispenser
+Dragon's Breath
+Dried Kelp
 Dried Kelp Block
 Dropper
+Egg
+Emerald
 Emerald Ore
+Empty Map
+Enchanted Golden Apple
 Enchanting Table
+End Crystal
 End Rod
 End Stone
 End Stone Brick Slab
@@ -195,19 +241,36 @@ End Stone Brick Stairs
 End Stone Brick Wall
 End Stone Bricks
 Ender Chest
+Ender Pearl
+Eye of Ender
+Feather
+Fermented Spider Eye
 Fern
+Fire Charge
 Fire Coral
 Fire Coral Block
 Fire Coral Fan
 Fire Coral Wall Fan
+Firework Rocket
+Firework Star
 Fletching Table
+Flint
 Flower Pot
 Furnace
+Ghast Tear
 Gilded Blackstone
 Glass
+Glass Bottle
 Glass Pane
+Glistering Melon Slice
 Glowstone
+Glowstone Dust
+Gold
+Gold Ingot
+Gold Nugget
 Gold Ore
+Golden Apple
+Golden Carrot
 Granite
 Granite Slab
 Granite Stairs
@@ -219,6 +282,7 @@ Gravel
 Gray Carpet
 Gray Concrete
 Gray Concrete Powder
+Gray Dye
 Gray Glazed Terracotta
 Gray Stained Glass
 Gray Stained Glass Pane
@@ -227,15 +291,20 @@ Gray Wool
 Green Carpet
 Green Concrete
 Green Concrete Powder
+Green Dye
 Green Glazed Terracotta
 Green Stained Glass
 Green Stained Glass Pane
 Green Terracotta
 Green Wool
 Grindstone
+Gunpowder
 Hay Bale
+Heart of the Sea
 Heavy Weighted Pressure Plate
 Honey Block
+Honey Bottle
+Honeycomb
 Honeycomb Block
 Hopper
 Horn Coral
@@ -243,10 +312,16 @@ Horn Coral Block
 Horn Coral Fan
 Horn Coral Wall Fan
 Ice
+Ink Sac‌
+Iron
+Iron Axe
 Iron Bars
 Iron Door
+Iron Ingot‌
+Iron Nugget
 Iron Ore
 Iron Trapdoor
+Item Frame
 Jack o'Lantern
 Jukebox
 Jungle Button
@@ -266,14 +341,18 @@ Jungle Wood
 Kelp
 Ladder
 Lantern
+Lapis Lazuli‌
 Lapis Lazuli Block
 Lapis Lazuli Ore
 Large Fern
+Lead
+Leather
 Lectern
 Lever
 Light Blue Carpet
 Light Blue Concrete
 Light Blue Concrete Powder
+Light Blue Dye
 Light Blue Glazed Terracotta
 Light Blue Stained Glass
 Light Blue Stained Glass Pane
@@ -282,6 +361,7 @@ Light Blue Wool
 Light Gray Carpet
 Light Gray Concrete
 Light Gray Concrete Powder
+Light Gray Dye
 Light Gray Glazed Terracotta
 Light Gray Stained Glass
 Light Gray Stained Glass Pane
@@ -294,6 +374,7 @@ Lily Pad
 Lime Carpet
 Lime Concrete
 Lime Concrete Powder
+Lime Dye
 Lime Glazed Terracotta
 Lime Stained Glass
 Lime Stained Glass Pane
@@ -304,13 +385,17 @@ Loom
 Magenta Carpet
 Magenta Concrete
 Magenta Concrete Powder
+Magenta Dye
 Magenta Glazed Terracotta
 Magenta Stained Glass
 Magenta Stained Glass Pane
 Magenta Terracotta
 Magenta Wool
 Magma Block
+Magma Cream
 Melon
+Melon Seeds
+Melon Slice
 Mossy Cobblestone
 Mossy Cobblestone Slab
 Mossy Cobblestone Stairs
@@ -321,16 +406,24 @@ Mossy Stone Brick Wall
 Mossy Stone Bricks
 Mushroom Stem
 Mycelium
+Name Tag
+Nautilus Shell
+Nether Brick
 Nether Brick Fence
 Nether Brick Slab
 Nether Brick Stairs
 Nether Brick Wall
 Nether Bricks
 Nether Gold Ore
+Nether Quartz
 Nether Quartz Ore
 Nether Sprouts
+Nether Star
+Nether Wart
 Nether Wart
 Nether Wart Block
+Netherite Ingot
+Netherite Scrap
 Netherrack
 Note Block
 Oak Button
@@ -352,6 +445,7 @@ Obsidian
 Orange Carpet
 Orange Concrete
 Orange Concrete Powder
+Orange Dye
 Orange Glazed Terracotta
 Orange Stained Glass
 Orange Stained Glass Pane
@@ -360,11 +454,15 @@ Orange Tulip
 Orange Wool
 Oxeye Daisy
 Packed Ice
+Painting
+Paper
 Peony
 Petrified Oak Slab
+Phantom Membrane
 Pink Carpet
 Pink Concrete
 Pink Concrete Powder
+Pink Dye
 Pink Glazed Terracotta
 Pink Stained Glass
 Pink Stained Glass Pane
@@ -373,6 +471,7 @@ Pink Tulip
 Pink Wool
 Piston
 Podzol
+Poisonous Potato
 Polished Andesite
 Polished Andesite Slab
 Polished Andesite Stairs
@@ -393,20 +492,28 @@ Polished Diorite Stairs
 Polished Granite
 Polished Granite Slab
 Polished Granite Stairs
+Popped Chorus Fruit
 Poppy
+Potato
 Potatoes
 Powered Rail
 Prismarine
 Prismarine Brick Slab
 Prismarine Brick Stairs
 Prismarine Bricks
+Prismarine Crystals
+Prismarine Shard
 Prismarine Slab
 Prismarine Stairs
 Prismarine Wall
+Pufferfish
 Pumpkin
+Pumpkin Pie
+Pumpkin Seeds
 Purple Carpet
 Purple Concrete
 Purple Concrete Powder
+Purple Dye
 Purple Glazed Terracotta
 Purple Stained Glass
 Purple Stained Glass Pane
@@ -420,10 +527,21 @@ Quartz Bricks
 Quartz Pillar
 Quartz Slab
 Quartz Stairs
+Rabbit Hide
+Rabbit Stew
+Rabbit's Foot
 Rail
+Raw Beef
+Raw Chicken
+Raw Cod
+Raw Mutton
+Raw Porkchop
+Raw Rabbit
+Raw Salmon
 Red Carpet
 Red Concrete
 Red Concrete Powder
+Red Dye
 Red Glazed Terracotta
 Red Mushroom
 Red Mushroom Block
@@ -442,6 +560,7 @@ Red Terracotta
 Red Tulip
 Red Wool
 Redstone Comparator
+Redstone Dust
 Redstone Lamp
 Redstone Ore
 Redstone Repeater
@@ -450,17 +569,21 @@ Redstone Wall Torch
 Redstone Wire
 Respawn Anchor
 Rose Bush
+Rotten Flesh
 Sand
 Sandstone
 Sandstone Slab
 Sandstone Stairs
 Sandstone Wall
 Scaffolding
+Scute
 Sea Lantern
 Sea Pickle
 Seagrass
 Shroomlight
+Shulker Shell
 Slime Block
+Slimeball
 Smithing Table
 Smoker
 Smooth Quartz
@@ -476,12 +599,15 @@ Smooth Stone
 Smooth Stone Slab
 Snow
 Snow Block
+Snowball
 Soul Campfire
 Soul Lantern
 Soul Sand
 Soul Soil
 Soul Torch
 Soul Wall Torch
+Spectral Arrow
+Spider Eye
 Sponge
 Spruce Button
 Spruce Door
@@ -497,6 +623,8 @@ Spruce Slab
 Spruce Stairs
 Spruce Trapdoor
 Spruce Wood
+Steak
+Stick
 Sticky Piston
 Stone
 Stone Brick Slab
@@ -508,6 +636,7 @@ Stone Pressure Plate
 Stone Slab
 Stone Stairs
 Stonecutter
+String
 Stripped Acacia Log
 Stripped Acacia Wood
 Stripped Birch Log
@@ -524,8 +653,10 @@ Stripped Spruce Log
 Stripped Spruce Wood
 Stripped Warped Hyphae
 Stripped Warped Stem
+Sugar
 Sugar Cane
 Sunflower
+Sweet Berries
 Sweet Berry Bush
 Tall Grass
 Tall Seagrass
@@ -536,11 +667,13 @@ Torch
 Trapped Chest
 Tripwire
 Tripwire Hook
+Tropical Fish
 Tube Coral
 Tube Coral Block
 Tube Coral Fan
 Tube Coral Wall Fan
 Turtle Egg
+Turtle Shell
 Twisting Vines
 Twisting Vines Plant
 Vines
@@ -565,9 +698,12 @@ Weeping Vines
 Weeping Vines Plant
 Wet Sponge
 Wheat
+Wheat
+Wheat Seeds
 White Carpet
 White Concrete
 White Concrete Powder
+White Dye
 White Glazed Terracotta
 White Stained Glass
 White Stained Glass Pane
@@ -579,143 +715,9 @@ Wither Skeleton Skull
 Yellow Carpet
 Yellow Concrete
 Yellow Concrete Powder
+Yellow Dye
 Yellow Glazed Terracotta
 Yellow Stained Glass
 Yellow Stained Glass Pane
 Yellow Terracotta
 Yellow Wool
-Acacia Button
-Allium
-Apple
-Armor Stand
-Arrow
-Baked Potato
-Beetroot
-Beetroot Seeds
-Beetroot Soup
-Black Dye
-Blaze Powder
-Blaze Rod
-Blue Dye
-Bone
-Bone Meal
-Book
-Bottle o' Enchanting
-Bowl
-Bread
-Brick
-Brown Dye
-Bucket
-Carrot
-Charcoal
-Chorus Fruit
-Clay Ball
-Clock
-Coal
-Cocoa Beans
-Compass
-Cooked Chicken
-Cooked Cod
-Cooked Mutton
-Cooked Porkchop
-Cooked Rabbit
-Cooked Salmon
-Cookie
-Cyan Dye
-Diamond
-Dragon's Breath
-Dried Kelp
-Egg
-Emerald
-Empty Map
-Enchanted Golden Apple
-End Crystal
-Ender Pearl
-Eye of Ender
-Feather
-Fermented Spider Eye
-Fire Charge
-Firework Rocket
-Firework Star
-Flint
-Ghast Tear
-Glass Bottle
-Glistering Melon Slice
-Glowstone Dust
-Gold Ingot
-Gold Nugget
-Golden Apple
-Golden Carrot
-Gray Dye
-Green Dye
-Gunpowder
-Heart of the Sea
-Honey Bottle
-Honeycomb
-Ink Sac‌
-Iron Axe
-Iron Ingot‌
-Iron Nugget
-Item Frame
-Lapis Lazuli‌
-Lead
-Leather
-Light Blue Dye
-Light Gray Dye
-Lime Dye
-Magenta Dye
-Magma Cream
-Melon Seeds
-Melon Slice
-Name Tag
-Nautilus Shell
-Nether Brick
-Nether Quartz
-Nether Star
-Nether Wart
-Netherite Ingot
-Netherite Scrap
-Orange Dye
-Painting
-Paper
-Phantom Membrane
-Pink Dye
-Poisonous Potato
-Popped Chorus Fruit
-Potato
-Prismarine Crystals
-Prismarine Shard
-Pufferfish
-Pumpkin Pie
-Pumpkin Seeds
-Purple Dye
-Rabbit Hide
-Rabbit Stew
-Rabbit's Foot
-Raw Beef
-Raw Chicken
-Raw Cod
-Raw Mutton
-Raw Porkchop
-Raw Rabbit
-Raw Salmon
-Red Dye
-Redstone Dust
-Rotten Flesh
-Scute
-Shulker Shell
-Slimeball
-Snowball
-Spectral Arrow
-Spider Eye
-Steak
-Stick
-String
-Sugar
-Sweet Berries
-Tropical Fish
-Turtle Shell
-Wheat
-Wheat Seeds
-White Dye
-Yellow Dye
